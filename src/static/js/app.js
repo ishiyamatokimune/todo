@@ -2,7 +2,7 @@ function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
-            <H1>ToDo App by Tokimune Ishiyama</H1>
+            ToDo App by Tokimune Ishiyama
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
                     <TodoListCard />
